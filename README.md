@@ -14,7 +14,7 @@ Install all necessary dependencies by writing in the console:
 Afterwards, run the following command to initiate the testing server:
 ```npm run dev```
 
-By navigating to the URl provided after this last command, you can now play around the project.
+By navigating to the URL provided after this last command, you can now play around the project.
 
 
 Feedback is always welcomed! thank you!
