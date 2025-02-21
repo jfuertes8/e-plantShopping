@@ -6,9 +6,15 @@ This project is part of a "Deep dive in React" course by **IBM**. This project p
 
 ## How to execute
 
-In order to execute this project, you can either download or fork it and clone it in your own local repository. Afterwards, open a terminal and navigate to the root directory of this project. You can then execute the following command and navigate to the URL provided:
+In order to execute this project, you can either download or fork it and clone it in your own local repository. Afterwards, open a terminal and navigate to the root directory of this project. You can then execute the following commands:
 
+Install all necessary dependencies by writing in the console:
+```npm install```
+
+Afterwards, run the following command to initiate the testing server:
 ```npm run dev```
+
+By navigating to the URl provided after this last command, you can now play around the project.
 
 
 Feedback is always welcomed! thank you!
