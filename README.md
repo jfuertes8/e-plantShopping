@@ -1,1 +1,14 @@
-# coding-project-template
+# e-plantShopping
+## A React based project to practice React components and Redux
+
+This project is part of a "Deep dive in React" course by **IBM**. This project presents a list of available products stored in a JSON format, and rendered via **React** components. Afterwards, I implement **Redux** in order to maintain a global state to store the selected products in a shopping-cart component.
+
+
+## How to execute
+
+In order to execute this project, you can either download or fork it and clone it in your own local repository. Afterwards, open a terminal and navigate to the root directory of this project. You can then execute the following command and navigate to the URL provided:
+
+```npm run dev```
+
+
+Feedback is always welcomed! thank you!
